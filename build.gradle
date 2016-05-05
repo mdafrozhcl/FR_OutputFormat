@@ -1,0 +1,4 @@
+project.ext.mainclass = 'example.ExampleJob'
+project.ext.archiveName = 'exampleFlight.jar'
+
+apply from: '/home/afroz/build.gradle'
